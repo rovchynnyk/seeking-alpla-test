@@ -1,0 +1,1 @@
+export const GRID_LEN = 50;
